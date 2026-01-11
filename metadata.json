@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Assistant Architect",
+  "description": "A local development environment to design, test, and export code for Gemini-powered AI assistants.",
+  "requestFramePermissions": []
+}
